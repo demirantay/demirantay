@@ -1,16 +1,14 @@
-### Hi there 👋
+# 🎃 Hello! 
 
-<!--
-**demirantay/demirantay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm trying to improve myself as a software developer everyday by learning new things or building cool products!
 
-Here are some ideas to get you started:
+##### PRODUCTS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [🌊 muralist](https://github.com/demirantay/muralist), algorithm visualizations with art pieces
+- [🐦 twitter-clone](https://github.com/demirantay/twitter-clone), Twitter clone built with python, django and posgres
+
+##### CONTACT
+
+- [Twitter](https://twitter.com/demir99antay)
+- [LinkedIn](https://www.linkedin.com/in/demirantay/)
+- [Dev.to](https://dev.to/demirantay)
