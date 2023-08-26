@@ -9,6 +9,5 @@ I'm trying to improve myself as a software developer everyday by learning new th
 
 ##### CONTACT
 
-- [Twitter](https://twitter.com/demir99antay)
 - [LinkedIn](https://www.linkedin.com/in/demirantay/)
 - [Dev.to](https://dev.to/demirantay)
