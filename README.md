@@ -10,4 +10,4 @@ I'm trying to improve myself as a software developer everyday by learning new th
 ##### CONTACT
 
 - [LinkedIn](https://www.linkedin.com/in/demirantay/)
-- [Dev.to](https://dev.to/demirantay)
+- [Product Hunt]()
