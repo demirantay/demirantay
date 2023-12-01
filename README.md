@@ -4,10 +4,10 @@ I'm trying to improve myself as a software developer everyday by learning new th
 
 ##### PROJECTS
 
-- [🌊 muralist](https://github.com/demirantay/muralist), algorithm visualizations with art pieces
+- [🛒 ecommerce-platform](https://github.com/demirantay/muralist), Test Case: E-commerce Platform (from scratch)
 - [🐦 twitter-clone](https://github.com/demirantay/twitter-clone), Twitter clone built with python, django and posgres
 
 ##### CONTACT
 
 - [LinkedIn](https://www.linkedin.com/in/demirantay/)
-- [Product Hunt]()
+- [Product Hunt](https://www.producthunt.com/@demir_antay)
