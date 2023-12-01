@@ -4,7 +4,7 @@ I'm trying to improve myself as a software developer everyday by learning new th
 
 ##### PROJECTS
 
-- [🛒 ecommerce-platform](https://github.com/demirantay/muralist), Test Case: E-commerce Platform (from scratch)
+- [🛒 ecommerce-platform](https://github.com/demirantay/ecommerce-platform), Test Case: E-commerce Platform (from scratch)
 - [🐦 twitter-clone](https://github.com/demirantay/twitter-clone), Twitter clone built with python, django and posgres
 
 ##### CONTACT
