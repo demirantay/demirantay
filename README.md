@@ -4,8 +4,9 @@ I'm trying to improve myself as a software developer everyday by learning new th
 
 ##### PROJECTS
 
-- [🛒 ecommerce-platform](https://github.com/demirantay/ecommerce-platform), Test Case: E-commerce Platform (from scratch)
-- [🐦 twitter-clone](https://github.com/demirantay/twitter-clone), Twitter clone built with python, django and posgres
+- [🧦 shopify-lab-1](https://github.com/demirantay/shopify-lab-1), My first Shopify project. Tried to implement an e-commerce platform
+- [🛒 ecommerce-platform](https://github.com/demirantay/ecommerce-platform), Test Case: E-commerce Platform (from scratch with Python)
+- [🐦 twitter-clone](https://github.com/demirantay/twitter-clone), Twitter clone built with Python, Django, and Postgres
 
 ##### CONTACT
 
