@@ -4,7 +4,7 @@ I'm trying to improve myself as a software developer everyday by learning new th
 
 ##### PROJECTS
 
-- [🛒 antay-cms](https://github.com/demirantay/ecommerce-platform), CMS built for my freelance work to reduce repetition
+- [🛒 antay-cms](https://github.com/demirantay/antay-cms), CMS built for my freelance work to reduce repetition
 - [🐦 twitter-clone](https://github.com/demirantay/twitter-clone), Twitter clone built with Python, Django, and Postgres
 
 ##### CONTACT
