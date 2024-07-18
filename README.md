@@ -1,7 +1,5 @@
 # 🎃 Hello! 
 
-I'm trying to improve myself as a software developer everyday by learning new things or building cool products!
-
 ##### PROJECTS
 
 - [🚜 antay-ui](https://github.com/demirantay/antay-ui), UI-Kit built for my freelance business
