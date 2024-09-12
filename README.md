@@ -3,8 +3,7 @@
 ##### PROJECTS
 
 - [🇫🇷 flashcards-FR](https://github.com/demirantay/flashcards-FR), My own flashcards app for learning french
-- [🚜 antay-ui](https://github.com/demirantay/antay-ui), UI-Kit built for my freelance business
-- [📝 antay-cms](https://github.com/demirantay/antay-cms), CMS built for my freelance work to reduce repetition
+- [🚜 factory](https://github.com/demirantay/factory), for automating boring stuff of SaaS apps
 - [🐦 twitter-clone](https://github.com/demirantay/twitter-clone), Twitter clone built with Python, Django, and Postgres
 
 ##### CONTACT
